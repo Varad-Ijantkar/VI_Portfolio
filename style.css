@@ -426,10 +426,10 @@ section{
     width:85%
 }
 .progress-line.python span{
-    width:50%
+    width:90%
 }
 .progress-line.react span{
-    width:75%
+    width:90%
 }
 
 .progress-line span::after{
